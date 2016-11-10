@@ -1,0 +1,9 @@
+.DS_STORE
+node_modules
+*~
+*.pyc
+static
+.grunt
+_SpecRunner.html
+__benchmarks__
+dist/
